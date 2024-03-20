@@ -1,3 +1,5 @@
+# Custom definitions
+build/*
 # C++ objects and libs
 *.slo
 *.lo
